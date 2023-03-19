@@ -6,8 +6,6 @@ You can read A Climate Counternarative on my Substack:
 
 You can download the files in:
 
-- English: [pages](./en/A Climate Counternarrative.pages) | \
-           [docx](./en/A Climate Counternarrative.docx) | \
-					 [pdf](./en/A Climate Counternarrative.pdf)
+- [English](./en)
 
 Translation instructions are included in the documents.
