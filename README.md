@@ -4,7 +4,7 @@ You can read A Climate Counternarative on my Substack:
 
 <https://ddebernardy.substack.com/p/a-climate-counternarrative>
 
-You can download the files in:
+You can download the single file version in:
 
 - [English](./en)
 
