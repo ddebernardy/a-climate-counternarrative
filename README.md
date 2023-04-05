@@ -1,6 +1,6 @@
 # A Climate Counternarrative
 
-You can read A Climate Counternarative on my Substack:
+You can read A Climate Counternarative on my [SubStack](https://ddebernardy.substack.com/):
 
 <https://ddebernardy.substack.com/p/a-climate-counternarrative>
 
