@@ -1,31 +1,65 @@
 # A Climate Counternarrative
 
-You can read _A Climate Counternarative_ on my [SubStack](https://ddebernardy.substack.com/):
+_A Climate Counternarrative_ exists in three versions:
 
-<https://ddebernardy.substack.com/p/a-climate-counternarrative>
+- _The Big Lie That Climate Propagandists Don’t Want You To Talk About_ (short):
+  <https://ddebernardy.substack.com/p/the-big-lie>
 
-A shorter version that skips the agenda discussions is available on EarthArXiv:
+- _Carbon Accounting is Making a Canopy Problem Look Like an Energy Problem_ (non-editorialized):
+  <https://eartharxiv.org/repository/view/5378/>
 
-<https://eartharxiv.org/repository/view/5246/>
+- _A Climate Counternarative_ (full length):
+  <https://ddebernardy.substack.com/p/a-climate-counternarrative>
+
 
 ## Contribute
 
-Make this message yours. The carbon accounting chicanery is straightforward to understand, verify, and explain to others. The more we are spreading the word in our own terms, the faster we will defeat the green agenda.
+You can follow me and my work on [Twitter](https://twitter.com/ddebernardy), [SubStack](https://ddebernardy.substack.com/), and [Telegram](https://t.me/a_natural_language).
+
+
+### Spread the Word
+
+Make this message yours. The carbon accounting chicanery is straightforward to understand, verify, and explain to others.
+
+
+### Legal
+
+Join the [crowdsourced effort](https://ddebernardy.substack.com/p/legal-jiu-jitsu) to defeat the green agenda in court.
+
+If you have time, locate a few climate related court cases and highlight this work to them.
+
+I'm also looking for lawyers to help draft generic _amicus briefs_ and _cease and desist letters_ that volunteers can file and send. In particular:
+
+- An amicus brief for fossil fuel related climate cases
+
+- A letter to notify academics and bureaucrats that they are contributing to land theft and murder
+
+- A letter to notify green fund managers that they are engaging in carbon accounting fraud
+
+
+### Translate
 
 Translation instructions are included at the end of the English manuscript.
+
+
+### Mirror
 
 To help ensure that this work stays resilient, save and print a copy, or clone and host a copy of this repository.
 
 
-## Deck
+## Documents
 
-A deck version of the manuscript exists in:
+### A Climate Counternarrative (Manuscript)
+
+The single file version of _A Climate Counternarrative_ exists in:
+
+- [English](./en): [,docx](./../../raw/main/en/A%20Climate%20Counternarrative.docx) | [.pages](./../../raw/main/en/A%20Climate%20Counternarrative.pages) | [.pdf](./../../raw/main/en/A%20Climate%20Counternarrative.pdf)
+
+
+### A Climate Counternarrative (Deck)
+
+The deck version of _A Climate Counternarrative_ exists in:
 
 - [English](./en): [.pptx](./../../raw/main/en/A%20Climate%20Counternarrative%20-%20Deck.pptx) | [.key](./../../raw/main/en/A%20Climate%20Counternarrative%20-%20Deck.key) | [.pdf](./../../raw/main/en/A%20Climate%20Counternarrative%20-%20Deck.pdf)
 
 
-## Manuscript
-
-The single file version of the manuscript exists in:
-
-- [English](./en): [,docx](./../../raw/main/en/A%20Climate%20Counternarrative.docx) | [.pages](./../../raw/main/en/A%20Climate%20Counternarrative.pages) | [.pdf](./../../raw/main/en/A%20Climate%20Counternarrative.pdf)
