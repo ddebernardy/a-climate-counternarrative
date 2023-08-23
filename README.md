@@ -2,13 +2,13 @@
 
 _A Climate Counternarrative_ exists in three versions:
 
-- _The Big Lie That Climate Propagandists Don’t Want You To Talk About_ (short):
+- _The Big Lie That Climate Propagandists Don’t Want You To Talk About_ (short):  
   <https://ddebernardy.substack.com/p/the-big-lie>
 
-- _Carbon Accounting is Making a Canopy Problem Look Like an Energy Problem_ (non-editorialized):
+- _Carbon Accounting is Making a Canopy Problem Look Like an Energy Problem_ (non-editorialized):  
   <https://eartharxiv.org/repository/view/5378/>
 
-- _A Climate Counternarative_ (full length):
+- _A Climate Counternarative_ (full length):  
   <https://ddebernardy.substack.com/p/a-climate-counternarrative>
 
 
@@ -26,15 +26,17 @@ Make this message yours. The carbon accounting chicanery is straightforward to u
 
 Join the [crowdsourced effort](https://ddebernardy.substack.com/p/legal-jiu-jitsu) to defeat the green agenda in court.
 
-If you have time, locate a few climate related court cases and highlight this work to them.
+If you have time, locate the protagonists involved in a few [climate related court cases](https://climatecasechart.com/) and highlight this work to them.
 
-I'm also looking for lawyers to help draft generic _amicus briefs_ and _cease and desist letters_ that volunteers can file and send. In particular:
+I'm also looking for a lawyer (or more) to draft generic _amicus briefs_ and _cease and desist letters_ to add to this repo, so volunteers can file and send them. In particular:
 
 - An amicus brief for fossil fuel related climate cases
 
 - A letter to notify academics and bureaucrats that they are contributing to land theft and murder
 
 - A letter to notify green fund managers that they are engaging in carbon accounting fraud
+
+Join the [Telegram](https://t.me/a_natural_language) or [reach out](mailto:dddebernardy@proton.me) if you can help.
 
 
 ### Translate
@@ -53,7 +55,7 @@ To help ensure that this work stays resilient, save and print a copy, or clone a
 
 The single file version of _A Climate Counternarrative_ exists in:
 
-- [English](./en): [,docx](./../../raw/main/en/A%20Climate%20Counternarrative.docx) | [.pages](./../../raw/main/en/A%20Climate%20Counternarrative.pages) | [.pdf](./../../raw/main/en/A%20Climate%20Counternarrative.pdf)
+- [English](./en): [.docx](./../../raw/main/en/A%20Climate%20Counternarrative.docx) | [.pages](./../../raw/main/en/A%20Climate%20Counternarrative.pages) | [.pdf](./../../raw/main/en/A%20Climate%20Counternarrative.pdf)
 
 
 ### A Climate Counternarrative (Deck)
