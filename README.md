@@ -24,7 +24,7 @@ Make this message yours. The carbon accounting chicanery is straightforward to u
 
 ### Legal
 
-Join the [crowdsourced effort](https://ddebernardy.substack.com/p/legal-jiu-jitsu) to defeat the green agenda in court.
+Join the [crowdsourced effort](https://ddebernardy.substack.com/legal) to defeat the green agenda in court.
 
 If you have time, locate the protagonists involved in a few [climate related court cases](https://climatecasechart.com/) and highlight this work to them.
 
@@ -36,7 +36,7 @@ I'm also looking for a lawyer (or more) to draft generic _amicus briefs_ and _ce
 
 - A letter to notify green fund managers that they are engaging in carbon accounting fraud
 
-Join the [Telegram](https://t.me/a_natural_language) or [reach out](mailto:dddebernardy@proton.me) if you can help.
+[Reach out](mailto:dddebernardy@proton.me) or join the [Telegram channel](https://t.me/a_natural_language) if you can help.
 
 
 ### Translate
